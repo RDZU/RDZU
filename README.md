@@ -33,13 +33,13 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flag&logo=laravel&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flag&logo=codeIgniter&logoColor=white)
 
-### Database
+### Databases
 
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flag&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flag&logo=mariadb&logoColor=white)
 
-### System Operating
+### Systems Operating
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flag&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flag&logo=windows&logoColor=white)
 
@@ -56,12 +56,3 @@
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/randolph-david-zamora/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:davidzamorau@gmail.com)
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Story of a Failed React Project](https://javascript.plainenglish.io/story-of-a-failed-react-project-f32177479bdf?source=rss-fe04a352a811------2)
-- [Refactor a React Component from 165 Lines to 30 Lines](https://javascript.plainenglish.io/refactor-a-react-component-from-165-lines-to-30-lines-1689b15ebfe0?source=rss-fe04a352a811------2)
-- [How to Add Google Fonts to Your Next.js Website](https://enlear.academy/how-to-add-google-fonts-to-your-next-js-website-e62272a0ff57?source=rss-fe04a352a811------2)
-- [Create Your First AWS CDK App to Understand its Power](https://medium.com/geekculture/create-your-first-aws-cdk-app-to-understand-its-power-ba2f0501cfdc?source=rss-fe04a352a811------2)
-- [Add Google Analytics to a Next.js Application](https://enlear.academy/add-google-analytics-to-a-next-js-application-5525892844db?source=rss-fe04a352a811------2)
-<!-- BLOG-POST-LIST:END -->
