@@ -4,9 +4,9 @@
 
 👨‍💻 My name is Randolph David, I am a Systems Engineer with +2 years specializing in Full-Stack Web development. 
 
-🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve his skills every day. I always aim to use best practices with an emphasis on creating beautiful interfaces that are easy to use.
+🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve my skills every day. I always aim to use best practices focused on continuous improvement, problem solving, process automation and software quality assurance.
 
-🙇 Outside the world of tech too, I like to stay fit, healthy, practice sports, read some book and dancing.
+🙇 Outside the world of tech, I like to stay fit, healthy, practice sports, read some book and dancing.
 
 ✈️ Last year I moved to Spain looking for a better life and growth opportunities in the world of technology. I recently obtained my work and residence permit in Spain. I am currently looking for a job opportunity here 🇪🇸.
 
