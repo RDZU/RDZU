@@ -8,7 +8,7 @@
 
 🙇 Outside the world of tech, I like to stay fit, healthy, practice sports, read some book and dancing.
 
-✈️ Last year I moved to Spain looking for a better life and growth opportunities in the world of technology. I recently obtained my work and residence permit in Spain. I am currently looking for a job opportunity here 🇪🇸.
+✈️ Last year I moved to Spain looking for a better life and growth opportunities in the world of technology.
 
 ## 🛠️ Skills
 
