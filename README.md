@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 My name is Randolph David, I am a Systems Engineer with +2 years specializing in Full-Stack Web development. 
+👨‍💻 My name is Randolph David, I am a Systems Engineer with +3 years specializing in Full-Stack Web development. 
 
 🧑‍🎓 I consider myself as a professional who likes to learn about new technology and improve my skills every day. I always aim to use best practices focused on continuous improvement, problem solving, process automation and software quality assurance.
 
@@ -16,6 +16,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flag&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
@@ -39,14 +40,22 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flag&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flag&logo=mariadb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flag&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Systems Operating
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flag&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flag&logo=windows&logoColor=white)
+![MAC](https://img.shields.io/badge/mac%20os-000000?style=flag&logo=apple&logoColor=white)
 
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flag&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flag&logo=sublime-text&logoColor=important)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flag&logo=vim&logoColor=white)
+
+### Cloud
+![devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flag&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flag&logo=microsoft-azure&logoColor=white)
+
 
 ### Idioms
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red)
