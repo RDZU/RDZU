@@ -16,7 +16,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flag&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flag&logo=c&logoColor=white)
 
 
 
