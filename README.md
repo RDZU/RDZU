@@ -56,6 +56,12 @@
 ![devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flag&logo=azure-devops&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flag&logo=microsoft-azure&logoColor=white)
 
+### Others
+![](https://img.shields.io/badge/GIT-E44C30?style=flag&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flag&logo=GNU%20Bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flag&logo=docker&logoColor=white)
+
+
 
 ### Idioms
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red)
